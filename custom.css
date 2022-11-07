@@ -1,0 +1,35 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+		
+		h1 {font-family: 'Oleo Script', cursive; color: white; font-size: 5rem; text-shadow: 2.5px 2.5px #641430}
+		h2 {font-family: 'Oleo Script', cursive; color: #641430;font-size: 3.5rem}
+		h3 {font-family: 'Crimson Text', serif;}
+		p {font-family: 'Crimson Text', serif;}
+		ul{font-family: 'Crimson Text', serif;}
+
+
+/* logo size */
+.img-fluid {max-width: 24%; height: auto;}
+
+/* nav color */
+		.bg-dark { --bs-bg-opacity: 1; background-color: #BEB89D !important;}
+
+/* carousel color */
+		.bg-primary {--bs-bg-opacity: 1;background-color: #595621 !important;}
+
+/* nav buttons */
+		.navbar-dark .navbar-nav .nav-link {color: white !important;font-size: 1.2rem}
+
+/* menu button */
+	.btn-primary {color: #fff; background-color: #BEB89D; border-color: #BEB89D;}
+
+	.btn-primary:hover {color: #fff; background-color: #C0715D;border-color: #C0715D;}
+
+
+/* unvisited link */
+		a:link {color: #595621;}
+
+/* mouse over link */
+		a:hover {color: #A79F7A;}
+
+/* visited link */
+		a:visited {color: #C0715D;}
